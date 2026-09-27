@@ -156,9 +156,9 @@ Based on the analysis:
 
 ## 📸 Dashboard
 
-![Supply Chain & Logistics Performance Dashboard](Images/Supply%20Chain%20Dashboard%20(1).png)
+![Supply Chain & Logistics Performance Dashboard](Images/Supply%20Chain%20Dashboard(1).png)
 ---
-![Supply Chain & Logistics Performance Dashboard](Images/Supply%20Chain%20Dashboard%20.png)
+![Supply Chain & Logistics Performance Dashboard](Images/Supply%20Chain%20Dashboard.png)
 ---
 
 ## 🔄 Project Workflow
