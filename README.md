@@ -156,7 +156,7 @@ Based on the analysis:
 
 ## 📸 Dashboard
 
-![Supply Chain & Logistics Performance Dashboard](images/supply-chain-dashboard.png)
+![Supply Chain & Logistics Performance Dashboard](images/Supply Chain Dashboard%20(1).png)
 
 ---
 
